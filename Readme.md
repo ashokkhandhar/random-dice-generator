@@ -15,4 +15,4 @@ It's a web page to generates dice randomly and declares the winner.
 
 ## Live Link
 
-https://notes-by-ak.netlify.app/
+https://ashokkhandhar.github.io/random-dice-generator/
